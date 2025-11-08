@@ -136,24 +136,6 @@ A **fully automatic** jewelry pricing system for Shopify that:
 
 ---
 
-## 💰 Costs
-
-### One-Time:
-- **Setup**: Free (your time: 1-2 hours)
-- **Deployment**: Free
-
-### Monthly:
-- **Hosting**: $5-7/month (Heroku/Railway/DigitalOcean)
-- **That's it!** No other costs
-
-### ROI for Client:
-- **Before**: 30-60 min daily manual updates
-- **After**: 2 min daily (just update rates)
-- **Time saved**: 28-58 min/day = ~15 hours/month
-- **Worth it!** 🎉
-
----
-
 ## 🎓 Deployment Options
 
 ### Recommended: Heroku
